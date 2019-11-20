@@ -12,6 +12,31 @@ fast_build: false
 offline: false
 preload_pages: true
 
+order:
+  - "Part_01.md"
+  - "Part_02.md"
+  - "Part_03.md"
+  - "Part_04.md"  
+  - "Part_05.md"
+  - "Part_06.md"
+  - "Part_07.md"
+  - "Part_08.md"
+  - "Part_09.md"
+  - "Part_10.md"
+  - "Part_11.md"
+  - "Part_12.md"
+  - "Part_13.md"
+  - "Part_14.md"
+  - "Part_15.md"
+  - "Part_16.md"
+  - "Part_17.md"
+  - "Part_18.md"
+  - "Part_19.md"
+  - "Part_20.md"
+  - "Part_21.md"
+  - "Part_22.md"
+  - "Part_23.md"
+  - "appendix.md"
 styling_options:
   primary_brand_color: '#444'  #----> Optional, theme color
   logo_path: /assets/logo.png  #----> Optional, path to logo

@@ -1,10 +1,10 @@
 # Part I - SCOPE AND APPLICATION
 
-## Citation
+## 1. Citation
 
 These Practice Directions may be cited as the Singapore International Commercial Court Practice Directions.
 
-##  Interpretation
+##  2. Interpretation
 
 In these Practice Directions, unless the context otherwise requires –
 
@@ -14,11 +14,11 @@ In these Practice Directions, unless the context otherwise requires –
 
 “counsel” means –
 
-(a) an Advocate and Solicitor;
+> (a) an Advocate and Solicitor;
 
-(b) a person admitted to practise as an advocate and solicitor under section 15 of the Legal Profession Act (Cap. 161); or
+> (b) a person admitted to practise as an advocate and solicitor under section 15 of the Legal Profession Act (Cap. 161); or
 
-(c) a Full Registration Foreign Lawyer;
+> (c) a Full Registration Foreign Lawyer;
 
 “Court” means the Singapore International Commercial Court;
 
@@ -38,23 +38,26 @@ In these Practice Directions, unless the context otherwise requires –
 
 “SICC Registry” means the Singapore International Commercial Court Division of the Supreme Court Registry.
 
-## Commencement
+## 3. Commencement
 
 These Practice Directions shall come into effect on 1 January 2015.
 
-## Updating of these Practice Directions
+## 4. Updating of these Practice Directions
 
-*   1.  Amendments to these Practice Directions will be done on a paragraph-for-paragraph basis.
-    2.  Where legislation is cited in these Practice Directions, the citation shall be read to refer to the edition of that legislation currently in force.
+(1) Amendments to these Practice Directions will be done on a paragraph-for-paragraph basis.
 
-## Scope of application of these Practice Directions
+(2) Where legislation is cited in these Practice Directions, the citation shall be read to refer to the edition of that legislation currently in force.
+
+## 5. Scope of application of these Practice Directions
 
 These Practice Directions shall apply to:
 
-*   *   1.  every case commenced in the Court (unless the case is transferred out of the Court pursuant to Order 110, Rules 10 or 12 of the Rules of Court);
-        2.  any proceedings for the transfer of a case from the High Court to the Court pursuant to Order 110, Rules 12 or 58 of the Rules of Court, and every case so transferred; and
-        3.  every appeal from a judgment or an order of the Court.
+> (a) every case commenced in the Court (unless the case is transferred out of the Court pursuant to Order 110, Rules 10 or 12 of the Rules of Court);
 
-## Forms
+> (b) any proceedings for the transfer of a case from the High Court to the Court pursuant to Order 110, Rules 12 or 58 of the Rules of Court, and every case so transferred; and
+
+> (c) every appeal from a judgment or an order of the Court.
+
+## 6. Forms
 
 The forms in Appendix B of these Practice Directions shall be used where applicable, with such variations as the circumstances of the case may require.
