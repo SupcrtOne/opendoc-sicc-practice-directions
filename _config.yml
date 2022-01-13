@@ -1,5 +1,5 @@
 title: Singapore International Commercial Court Practice Directions
-remote_theme: opendocsg/opendoc-theme@v2
+remote_theme: opendocsg/opendoc-theme@master
 timezone: Asia/Singapore
 repository: opendocsg/opendoc-sicc-practice-directions
 plugins:
@@ -12,33 +12,43 @@ fast_build: false
 offline: false
 preload_pages: true
 
-order:
-  - "Part_01.md"
-  - "Part_02.md"
-  - "Part_03.md"
-  - "Part_04.md"  
-  - "Part_05.md"
-  - "Part_06.md"
-  - "Part_07.md"
-  - "Part_08.md"
-  - "Part_09.md"
-  - "Part_10.md"
-  - "Part_11.md"
-  - "Part_12.md"
-  - "Part_13.md"
-  - "Part_14.md"
-  - "Part_15.md"
-  - "Part_16.md"
-  - "Part_17.md"
-  - "Part_18.md"
-  - "Part_19.md"
-  - "Part_20.md"
-  - "Part_21.md"
-  - "Part_22.md"
-  - "Part_23.md"
-  - "appendix.md"
 styling_options:
-  primary_brand_color: '#444'  #----> Optional, theme color
-  logo_path: /assets/logo.png  #----> Optional, path to logo
+  primary_brand_color: '#444' #----> Optional, theme color
+  logo_path: /assets/logo.png #----> Optional, path to logo
   opendoc_logo_path: /assets/images/logo-full.png
   feedback_url: https://form.gov.sg/5cee3d46138e3200109244df #----> Optional, feedback url
+
+hide_toolbar:
+  sidebar: false
+  pdf: false
+  github: true
+
+folders:
+  - name: '/'
+    title: 'SICC Practice Directions'
+    subtitle: ''
+    order:
+      - 'Part_01.md'
+      - 'Part_02.md'
+      - 'Part_03.md'
+      - 'Part_04.md'
+      - 'Part_05.md'
+      - 'Part_06.md'
+      - 'Part_07.md'
+      - 'Part_08.md'
+      - 'Part_09.md'
+      - 'Part_10.md'
+      - 'Part_11.md'
+      - 'Part_12.md'
+      - 'Part_13.md'
+      - 'Part_14.md'
+      - 'Part_15.md'
+      - 'Part_16.md'
+      - 'Part_17.md'
+      - 'Part_18.md'
+      - 'Part_19.md'
+      - 'Part_20.md'
+      - 'Part_21.md'
+      - 'Part_22.md'
+      - 'Part_23.md'
+      - 'appendix.md'
